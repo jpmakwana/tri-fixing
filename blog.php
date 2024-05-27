@@ -6,7 +6,7 @@ include("connect.php");
 <!doctype html>
 <html lang="en-US"> 
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <meta charset="UTF-8">
